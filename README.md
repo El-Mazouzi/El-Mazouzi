@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-mazouzi&label=Profile%20views&color=0e75b6&style=flat" alt="el-mazouzi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-mazouzi&theme=flat" alt="el-mazouzi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-mazouzi&theme=flat" alt="el-mazouzi" /></a> </p>
 
 - 🌱 I’m currently learning **more about native development**
 
