@@ -5,7 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-mazouzi&theme=flat" alt="el-mazouzi" /></a> </p>
 
-- 🌱 I’m currently learning **more about native development**
+- 👀 I’m always interested in creating and working on projects that offer value to others and help me to learn something new.
+
+- 💞️ Always looking forward to collaborating on projects which sound interesting and fun.
+ 
+- 🌱 I’m currently learning **more about Mobile development, Node Js, Firebase..**
 
 - 💬 Ask me about **Flutter, Dart, Node Js, MySql, Sql Server**
 
