@@ -44,7 +44,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&show_icons=true&locale=en" alt="el-mazouzi" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-mazouzi&" alt="el-mazouzi" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mazouzi&show_icons=true&locale=en&layout=compact" alt="el-mazouzi" width="80%" height="300" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mazouzi&show_icons=true&locale=en&layout=compact" alt="el-mazouzi" width="80%" height="250" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/aymene-mazouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aymene-mazouzi" height="30" width="40" /></a>
