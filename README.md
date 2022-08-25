@@ -41,10 +41,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el-mazouzi&theme=flat" alt="el-mazouzi" /></a> </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&show_icons=true&locale=en" alt="el-mazouzi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&show_icons=true&locale=en" alt="el-mazouzi" width="80%" height="200" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-mazouzi&" alt="el-mazouzi" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mazouzi&show_icons=true&locale=en&layout=compact" alt="el-mazouzi" width="80%" height="250" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-mazouzi&" alt="el-mazouzi" width="80%" height="200" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mazouzi&show_icons=true&locale=en&layout=compact" alt="el-mazouzi" width="80%" height="200" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/aymene-mazouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aymene-mazouzi" height="30" width="40" /></a>
