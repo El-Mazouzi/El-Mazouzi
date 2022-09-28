@@ -38,6 +38,11 @@
 </p>
 
 
+<div>
+  <a href="https://github.com/el-mazouzi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-mazouzi&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&show_icons=true&locale=en" alt="el-mazouzi" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-mazouzi&" alt="el-mazouzi" /></p>
