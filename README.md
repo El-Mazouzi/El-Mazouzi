@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aymene Mazouzi</h1>
-<h4 align="center">A Passionate and self-motivated Developer.</h4>
+<h1 align="left">Hi 👋, I'm Aymene Mazouzi</h1>
+<h4 align="left">A Passionate and self-motivated Developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-mazouzi&label=Profile%20views&color=0e75b6&style=flat" alt="el-mazouzi" /> </p>
 
