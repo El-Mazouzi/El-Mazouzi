@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently learning **more about Mobile development, Node Js, Firebase..**
 
-- 💬 Ask me about **Flutter, Dart, Node Js, MySql, Sql Server**
+- 💬 Ask me about **Flutter, Dart, Node Js, MySql, Sql Server.**
 
 - 📫 How to reach me **mazouziaymene@gmail.com**
 
