@@ -1,53 +1,51 @@
 <img src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=el-mazouzi&label=Profile%20views&color=0e75b6&style=flat" alt="el-mazouzi" /> </p>
+
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=el-mazouzi&repo=el-mazouzi&countColor=%2308E8FF"/>
+</p>
 
 
 
-- 👀 I’m always interested in creating and working on projects that offer value to others and help me to learn something new.
 
-- 💞️ Always looking forward to collaborating on projects which sound interesting and fun.
- 
-- 🌱 I’m currently learning **more about Mobile development, Node Js, Firebase..**
+<p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=el-mazouzi&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
+    <br>
+</p>
 
-- 💬 Ask me about **Flutter, Dart, Node Js, MySql, Sql Server.**
+Embark on a journey of innovation and transformation with me!
 
-- 📫 How to reach me **mazouziaymene@gmail.com .**
+Are you tired of struggling with digital solutions that don't quite meet your needs? Perhaps you've felt the frustration of investing time and resources into apps that fail to resonate with your users or drive meaningful results.
 
+Imagine a future where your digital presence not only meets but exceeds expectations, where your apps are seamless, intuitive, and leave a lasting impression on every user. 
 
+I specialize in mobile app development, with a focus on Flutter and Android technologies. My mission is simple: to understand your burning pain points and craft tailored solutions that address them head-on. 
 
-<h3 align="left">Mobile Development : </h3>
+From startups venturing into their first app to established companies aiming to elevate their digital presence, I've helped clients across diverse sectors achieve their goals with commercially successful applications.
 
-<p align="left"> 
- 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
- 
- 
-<h3 align="left">Back-end Development : </h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- 
-  <br/>
- 
-<h3 align="left">Other Tools I Worked with : </h3>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+My approach is rooted in empathy, understanding the core needs of your end-users to deliver experiences that resonate deeply. Leveraging a diverse toolkit of technologies including Kotlin, Jetpack Compose, Flutter, Dart, and more, I offer comprehensive services from conceptualization to implementation and beyond.
+
+Let's turn your vision into reality. Reach out to me at mazouziaymene@gmail.com, and together, let's build the future of innovation. Your journey to digital transformation starts now.
 
  
  <br/> <br/>
 
+ <p align="center">
+ <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter Badge">
+ <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge" alt="Dart Badge">
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge" alt="Kotlin Badge">
+ <img src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=for-the-badge" alt="Android Badge">
+ <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge" alt="Jetpack Compose Badge">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
+ <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js Badge">
+ <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge" alt="Express Badge">
+ <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge" alt="Firebase Badge">
+ <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=fff&style=for-the-badge" alt="Realm Badge">
+ <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" alt="Postman Badge">
+  <img alt='GIT' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
+ </p>
+
 </p>
 
 
-<div>
-  <a href="https://github.com/el-mazouzi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-mazouzi&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-mazouzi&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/aymene-mazouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aymene-mazouzi" height="30" width="40" /></a>
-</p>
