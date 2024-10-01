@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner.jpg" />
+<img src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-mazouzi&label=Profile%20views&color=0e75b6&style=flat" alt="el-mazouzi" /> </p>
 
