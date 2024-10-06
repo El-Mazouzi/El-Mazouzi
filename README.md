@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
+<img height="500px" width="100%" src="https://raw.githubusercontent.com/El-Mazouzi/El-Mazouzi/main/banner-2.png" />
 
 
 <p align="right">
